@@ -1,8 +1,6 @@
-## Extra Resources
-Regularly updated.
-
 ### In-class
-[01-Measuring-Game-Engine-Performance](https://github.com/danmilneusw/01-Measuring-Game-Engine-Performance/blob/main/README.md#extra-resources)
+- [01-Measuring-Game-Engine-Performance](https://github.com/danmilneusw/01-Measuring-Game-Engine-Performance)
+- [02-Audio](https://github.com/danmilneusw/02-Audio)
 
 ### General Optimisation in Unity
 - [Unity Learn - Introduction to Optimization in Unity](https://learn.unity.com/tutorial/introduction-to-optimization-in-unity#)
