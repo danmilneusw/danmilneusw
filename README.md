@@ -2,6 +2,7 @@
 ### Week 2 - [02-Audio](https://github.com/danmilneusw/02-Audio)
 ### Week 3 - [03-Level-of-Detail](https://github.com/danmilneusw/03-Level-of-Detail)
 ### Week 4 - [04-Draw-Calls](https://github.com/danmilneusw/04-Draw-Calls)
+### Week 5 - [05-Garbage-Collection](https://github.com/danmilneusw/05-Garbage-Collection)
 ### [Extra](https://github.com/danmilneusw/Extra)
 
 #### General Optimisation in Unity
