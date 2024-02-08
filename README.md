@@ -13,4 +13,9 @@
 - [Unity Docs - Understanding Optimization in Unity](https://docs.unity3d.com/2022.2/Documentation/Manual/BestPracticeUnderstandingPerformanceInUnity.html) ⭐
 - [Ultimate Guide to Profiling Unity Games (eBook)](https://unity.com/resources/ultimate-guide-to-profiling-unity-games) ⭐
 
+#### Excellent Books for Game Devs
+- [Nvidia GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
+- [Nvidia GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright)
+- [Nvidia GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors)
+
 Look out for the '⭐' in the Extra Resources of each repository for the link(s) I most recommend viewing.
