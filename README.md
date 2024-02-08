@@ -10,6 +10,7 @@
 - [Unity Learn - Introduction to Optimization in Unity](https://learn.unity.com/tutorial/introduction-to-optimization-in-unity#)
 - [Unity Learn - Optimization Approaches for Project Assets](https://learn.unity.com/tutorial/optimization-approaches-for-project-assets#)
 - [Fixing Performance Problems - 2019.3](https://learn.unity.com/tutorial/fixing-performance-problems-2019-3#604584f1edbc2a08f89305c9)
+- [Configuring Your Unity Project for Stronger Performance](https://unity.com/how-to/project-configuration-and-assets) ⭐
 - [Unity Docs - Understanding Optimization in Unity](https://docs.unity3d.com/2022.2/Documentation/Manual/BestPracticeUnderstandingPerformanceInUnity.html) ⭐
 - [Ultimate Guide to Profiling Unity Games (eBook)](https://unity.com/resources/ultimate-guide-to-profiling-unity-games) ⭐
 
