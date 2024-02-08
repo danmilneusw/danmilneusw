@@ -3,6 +3,7 @@
 ### Week 3 - [03-Level-of-Detail](https://github.com/danmilneusw/03-Level-of-Detail)
 ### Week 4 - [04-Draw-Calls](https://github.com/danmilneusw/04-Draw-Calls)
 ### Week 5 - [05-Garbage-Collection](https://github.com/danmilneusw/05-Garbage-Collection)
+### Week 6 - [06-2D-Game-Optimisation](https://github.com/danmilneusw/06-2D-Game-Optimisation)
 ### [Extra](https://github.com/danmilneusw/Extra)
 
 #### General Optimisation in Unity
