@@ -1,5 +1,3 @@
-# 🔶 contact: danmilneusw@outlook.com 🔶
-
 ### Week 1 - [01-Measuring-Game-Engine-Performance](https://github.com/danmilneusw/01-Measuring-Game-Engine-Performance)
 ### Week 2 - [02-Audio](https://github.com/danmilneusw/02-Audio)
 ### Week 3 - [03-Level-of-Detail](https://github.com/danmilneusw/03-Level-of-Detail)
