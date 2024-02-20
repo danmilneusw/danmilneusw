@@ -4,6 +4,7 @@
 ### Week 4 - [04-Draw-Calls](https://github.com/danmilneusw/04-Draw-Calls)
 ### Week 5 - [05-Garbage-Collection](https://github.com/danmilneusw/05-Garbage-Collection)
 ### Week 6 - [06-2D-Game-Optimisation](https://github.com/danmilneusw/06-2D-Game-Optimisation)
+### Week 7 - [07-Object-Pooling-Example](https://github.com/danmilneusw/07-Object-Pooling-Example)
 ### [Extra](https://github.com/danmilneusw/Extra)
 
 #### General Optimisation in Unity
