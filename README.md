@@ -7,6 +7,7 @@
 ### Week 7 - [07-Object-Pooling-Example](https://github.com/danmilneusw/07-Object-Pooling-Example)
 ### Week 8 - [08-DLSS](https://github.com/danmilneusw/08-DLSS)
 ### Week 9 - [09-Raycaster-Engine](https://github.com/danmilneusw/09-Raycaster-Engine)
+### Week 10 - [10-Spatial-Partitioning](https://github.com/danmilneusw/10-Spatial-Partitioning)
 ### [Extra](https://github.com/danmilneusw/Extra)
 
 #### General Optimisation in Unity
