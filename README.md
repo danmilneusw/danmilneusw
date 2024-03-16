@@ -8,6 +8,7 @@
 ### Week 8 - [08-DLSS](https://github.com/danmilneusw/08-DLSS)
 ### Week 9 - [09-Raycaster-Engine](https://github.com/danmilneusw/09-Raycaster-Engine)
 ### Week 10 - [10-Spatial-Partitioning](https://github.com/danmilneusw/10-Spatial-Partitioning)
+### [Assessment-2](https://github.com/danmilneusw/Assessment-2)
 ### [Extra](https://github.com/danmilneusw/Extra)
 
 #### General Optimisation in Unity
