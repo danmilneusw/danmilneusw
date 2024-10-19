@@ -12,6 +12,7 @@
 ### [Extra](https://github.com/danmilneusw/Extra)
 
 #### General Optimisation in Unity
+- [Optimize your game performance for consoles and PCs in Unity (Unity 6 edition)](https://unity.com/resources/console-pc-game-performance-optimization-unity-6)⭐
 - [Unity Learn - Introduction to Optimization in Unity](https://learn.unity.com/tutorial/introduction-to-optimization-in-unity#)
 - [Unity Learn - Optimization Approaches for Project Assets](https://learn.unity.com/tutorial/optimization-approaches-for-project-assets#)
 - [Fixing Performance Problems - 2019.3](https://learn.unity.com/tutorial/fixing-performance-problems-2019-3#604584f1edbc2a08f89305c9)
